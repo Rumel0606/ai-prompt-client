@@ -14,10 +14,6 @@ Built with performance, scalability, and security in mind, this marketplace enab
 
 ---
 
-## 📸 Homepage Screenshot
-
-<img width="1292" height="856" alt="Screenshot 2026-09-21 131719" src="https://github.com/user-attachments/assets/607e5a8e-ee1f-4ac3-ae65-864ef705b972" />
-
 
 ---
 
