@@ -20,8 +20,8 @@ Built with performance, scalability, and security in mind, this marketplace enab
 ## 🔗 Live Demo
 
 * 🌐 Live Website: https://ai-promt-client.vercel.app/
-* 💻 Client Repo: https://github.com/kawserali-64/ai-promt-client
-* 🖥 Server Repo: https://github.com/kawserali-64/ai-prompt-server
+* 💻 Client Repo: https://github.com/Rumel0606/ai-prompt-client
+* 🖥 Server Repo: https://github.com/Rumel0606/ai-prompt-server
 
 ---
 
